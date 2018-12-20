@@ -1,0 +1,4 @@
+name: MOTD
+version: 1.0.0
+author: Caleb Bassham
+main: me.calebbassham.motd.MOTD
